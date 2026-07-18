@@ -20,17 +20,15 @@ Unlock the entire **Palworld** map instantly by removing the exploration fog fro
 
 ## 📸 Preview
 
-> Add screenshots of the application here.
-
 ```
-[ Screenshot ]
+![screenshot]()
 ```
 
 ---
 
 ## 🚀 Getting Started
 
-1. Download the latest release.
+1. Download the [latest release](https://github.com/NobaNoba1110/palworld-map-unlocker/releases/tag/release).
 2. Launch **Palworld Map Unlocker**.
 3. Select your Palworld save file.
 4. Click **Unlock Map**.
