@@ -20,9 +20,7 @@ Unlock the entire **Palworld** map instantly by removing the exploration fog fro
 
 ## 📸 Preview
 
-```
-![screenshot]()
-```
+![windows](assets/9955.png)
 
 ---
 
